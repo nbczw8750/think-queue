@@ -1,0 +1,14 @@
+{
+    "name": "nbczw8750/sms",
+    "description": "sms",
+    "type": "php",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "nbczw8750",
+            "email": "nbczw8750@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
